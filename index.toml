@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "prominence-2-fabric.pw.toml"
+hash = "72d60f5c4738792d11da1c32837dd8811c9f29f4c4f04ca1b9ec8f056454fe6a"
+metafile = true

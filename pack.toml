@@ -1,0 +1,13 @@
+name = "Prominence"
+author = "Douglas Parker"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6f74d64bb3e42b3d41a63c90efb349ff7e4639d3f4fd8ce63335d12d7cc161e4"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.20.2"
