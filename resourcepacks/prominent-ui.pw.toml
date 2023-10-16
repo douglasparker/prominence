@@ -1,0 +1,13 @@
+name = "Prominent UI"
+filename = "Prominent-UI-1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1a4698cc3daa5aceffd14d320e8ae6bd9e99a44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4757199
+project-id = 914315

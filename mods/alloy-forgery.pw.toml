@@ -1,0 +1,13 @@
+name = "Alloy Forgery"
+filename = "alloy-forgery-2.0.22+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f13357a70a8a04c0c2747e80b7fc9dbaf5801c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4644228
+project-id = 438718

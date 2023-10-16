@@ -1,0 +1,13 @@
+name = "Variant Composters [Fabric/Quilt]"
+filename = "variantcomposters-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43b58c8622b7337669d452de70db67a7ce4fd121"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4757886
+project-id = 661180

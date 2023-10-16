@@ -1,0 +1,13 @@
+name = "You Shall Not Spawn! [Forge/Fabric]"
+filename = "YSNS-Fabric_Quilt-MC1.20-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6ab26bb24eb5fb3a4611cd133a0a64e8b682735"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4584093
+project-id = 628744

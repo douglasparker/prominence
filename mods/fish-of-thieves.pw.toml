@@ -1,0 +1,13 @@
+name = "Fish of Thieves"
+filename = "fish_of_thieves-mc1.20.1-v3.0.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fb4da0320cd79ebfdab7c12305d3ec5559937a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4624465
+project-id = 568372

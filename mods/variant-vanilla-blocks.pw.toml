@@ -1,0 +1,13 @@
+name = "Variant Vanilla Blocks [Fabric | Forge]"
+filename = "variantvanillablocks-1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4b9a2792ec11d2733398c825300107fe5438358"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4782307
+project-id = 866509

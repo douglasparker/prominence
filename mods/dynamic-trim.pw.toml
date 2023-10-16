@@ -1,0 +1,13 @@
+name = "Dynamic Trim"
+filename = "dynamictrim-1.2.1-fabric+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7318dfd1450f0e8123de3eba060c2907b3b4c6d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4718821
+project-id = 901658

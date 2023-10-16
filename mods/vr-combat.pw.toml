@@ -1,0 +1,13 @@
+name = "VR Combat"
+filename = "VR-Combat_v1.0.2_Fabric_ALL.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62a62812bd1a5d675e0a0dbd5835b923b00740d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4725545
+project-id = 633165

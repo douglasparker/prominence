@@ -1,0 +1,13 @@
+name = "Mythic Mobs"
+filename = "mythicmobs-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2173fb0ab6d2a1b0ff63eeba98b0d7d9e6d52ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4765416
+project-id = 699989

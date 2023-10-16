@@ -1,0 +1,13 @@
+name = "Grass Overhaul (Sod)"
+filename = "Grass_Overhaul-Fabric-23.06.09_MC1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bfc22f191a1ad32ef922d805132744cfbccc7cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4583579
+project-id = 640973

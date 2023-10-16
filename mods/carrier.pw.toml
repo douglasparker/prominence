@@ -1,0 +1,13 @@
+name = "Carrier"
+filename = "carrier-1.12.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71da28971b7f47c13eac90d47fb92548d87555d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4605884
+project-id = 409184

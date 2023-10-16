@@ -1,4 +1,4 @@
-name = "Prominence"
+name = "Prominence II"
 author = "Douglas Parker"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6f74d64bb3e42b3d41a63c90efb349ff7e4639d3f4fd8ce63335d12d7cc161e4"
+hash = "ba06d928f5aebd136de5a1a7510d7108df7ee597944ce2c217fb9b1d4b226bb0"
 
 [versions]
-fabric = "0.14.23"
-minecraft = "1.20.2"
+fabric = "0.14.22"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Build Guide (Forge+Fabric)"
+filename = "BuildGuide-1.20-0.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9df8fc3433a864c89908d4a31d0acf3e68100c83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4780939
+project-id = 465690
